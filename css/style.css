@@ -84,29 +84,36 @@ form{margin-top:20px}
     color: rgb(0, 0, 0);
 }
 .formulario__1:hover{background-color: rgba(68, 144, 214, 0.664);}
+
 /*QUIENES SOMOS?*/
+
 .separador__1{padding-left: 30px ;
     margin:auto;;
 }
-.qs{display: flex;
-    justify-content: center;
-    color: burlywood;
+.qs{
+display: flex;
+justify-content: center;
+color: burlywood;
 }
-.quienes{color: white;
-text-align: center;}
+.quienes{
+color: white;
+text-align: center;
+}
 
-.quienes__1{color:rgb(255, 255, 255);
+.quienes__1{
+color:rgb(255, 255, 255);
 margin-top: 15px;
 text-align: center;
 font-size: 25px;
 font-family: initial;
 background-color: rgba(165, 42, 42, 0.473);
+
 }
 .quienes__1:hover{ color:rgb(212, 211, 255); 
    }
-   .cocina{font-size: 20px; color: rgba(7, 255, 255, 0.493);}
+.cocina{font-size: 20px; color: rgba(7, 255, 255, 0.493);}
 
 
    /*quienes somos*/
-   .quienes-somos{font-size: 30px;}
+.quienes-somos{font-size: 30px;}
   

@@ -1,0 +1,112 @@
+
+body header{background-color: white;}
+body{background-color: rgba(29, 19, 19, 0.836);}
+body{font-family: 'Bebas Neue', cursive;}
+.body__2{ background-color: rgba(29, 19, 19, 0.836);}
+/*logo*/
+.logopanda{
+    width: 150px;
+    height: 150px;
+}
+
+/**********NAV***********/
+
+.nav-item{padding:10px ;}
+
+
+.carousel-item{height: 400px;}
+.carousel-item img{ height: 400px;}
+
+
+
+h5{
+    color: rgb(255, 255, 255);
+    background-color: rgba(139, 82, 82, 0.466);
+}
+
+/*ubicacion*/
+
+.ubicacion{margin-top: 5px;
+    color: azure;}
+    .ubicacion1{font-size: 20px;
+        color: rgba(7, 255, 255, 0.493);
+        padding-left: 100px;
+        margin-top: 30px;
+        margin-bottom: 0%;
+        
+} 
+
+.mapa{margin-top: 10px;}
+@media (max-width:767px){
+#video{width:300px;}
+}
+
+/*footer*/
+footer{margin-top: 10px;}
+
+footer ul{margin: 0%;
+    padding:0%;
+    display: flex;
+    padding-left: 560px;
+    justify-content:70px space-between ;  
+}
+
+#dicho{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+    padding-left: 300px;}
+    
+    
+    /*main menu*/
+    .main-menu{
+        margin-top:20px ;
+}
+/*main promo*/
+.main-promo{
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+
+/*formulario socio/cliente*/
+
+
+form{margin-top:20px}
+
+.formulario{
+    margin-top:20px
+}
+.formulario__1{
+    text-align: center;
+    font-family: serif;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+.formulario__1:hover{background-color: rgba(68, 144, 214, 0.664);}
+/*QUIENES SOMOS?*/
+.separador__1{padding-left: 30px ;
+    margin:auto;;
+}
+.qs{display: flex;
+    justify-content: center;
+    color: burlywood;
+}
+.quienes{color: white;
+text-align: center;}
+
+.quienes__1{color:rgb(255, 255, 255);
+margin-top: 15px;
+text-align: center;
+font-size: 25px;
+font-family: initial;
+background-color: rgba(165, 42, 42, 0.473);
+}
+.quienes__1:hover{ color:rgb(212, 211, 255); 
+   }
+   .cocina{font-size: 20px; color: rgba(7, 255, 255, 0.493);}
+
+
+   /*quienes somos*/
+   .quienes-somos{font-size: 30px;}
+  

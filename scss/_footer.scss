@@ -1,0 +1,16 @@
+
+/*******FOOTER******/
+footer{margin-top: 10px;
+& ul{
+    margin: 0%;
+    padding:0%;
+    display: flex;
+    padding-left: 560px;
+    justify-content:70px space-between ;  
+}
+.ani_footer1{color:rgb(59, 59, 189) ;}
+.ani_footer2{color:rgb(214, 31, 175) ;}
+.ani_footer3{color:rgb(38, 151, 57) ;}
+.ani_footer1:hover{color: rgba(54, 54, 216, 0.849);} 
+.ani_footer2:hover{color: rgba(228, 51, 228, 0.973);}
+.ani_footer3:hover{color: rgba(22, 187, 96, 0.863);}}
